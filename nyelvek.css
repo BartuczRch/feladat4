@@ -66,3 +66,19 @@ li
 	margin: 3px;
 	font-style: italic;
 }
+body{
+	color: #00008b;
+	background-color: #ffd700;
+}
+h1, h2{
+	color: red;
+	text-transform: uppercase;
+}
+#f_vonal{
+	width: 800px;
+	height: 6px;
+	background-color: green;
+}
+li{
+	list-style-image: url(list.png);
+}
